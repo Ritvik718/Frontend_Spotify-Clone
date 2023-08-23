@@ -1,5 +1,4 @@
 # Frontend_Spotify-Clone
-Spotify Clone
 
 # Introduction
 Welcome to the Spotify Clone project! This web application is a visual replica of the popular music streaming service, Spotify. It provides a simulated experience of the Spotify interface, allowing you to explore the look and feel of the platform.
