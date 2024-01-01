@@ -1,4 +1,7 @@
 # Frontend_Spotify-Clone
+<img width="1000" alt="Screenshot 2024-01-01 at 11 10 31 PM" src="https://github.com/Ritvik718/Frontend_Spotify-Clone/assets/113967696/ebfc7d0d-05aa-45b6-8adb-319f632d5892">
+
+<img width="1000" alt="Screenshot 2024-01-01 at 11 10 51 PM" src="https://github.com/Ritvik718/Frontend_Spotify-Clone/assets/113967696/6bd311ea-5d00-46fd-9fe6-3185c6f2340c">
 
 # Introduction
 Welcome to the Spotify Clone project! This web application is a visual replica of the popular music streaming service, Spotify. It provides a simulated experience of the Spotify interface, allowing you to explore the look and feel of the platform.
